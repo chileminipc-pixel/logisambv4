@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "usu_login": "copec_admin",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 57,
+    "nombre": "María González",
+    "email": "maria.gonzalez@copec.cl"
+  },
+  {
+    "id": 2,
+    "usu_login": "copec_operador",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 57,
+    "nombre": "Carlos Rodríguez",
+    "email": "carlos.rodriguez@copec.cl"
+  },
+  {
+    "id": 3,
+    "usu_login": "shell_admin",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 58,
+    "nombre": "Ana Patricia Silva",
+    "email": "ana.silva@shell.com"
+  },
+  {
+    "id": 4,
+    "usu_login": "shell_supervisor",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 58,
+    "nombre": "Roberto Mendoza",
+    "email": "roberto.mendoza@shell.com"
+  },
+  {
+    "id": 5,
+    "usu_login": "petrobras_admin",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 59,
+    "nombre": "Fernando Castro",
+    "email": "fernando.castro@petrobras.com"
+  },
+  {
+    "id": 6,
+    "usu_login": "petrobras_operador",
+    "usu_pwd": "demo123",
+    "usu_activo": "NO",
+    "clienteId": 59,
+    "nombre": "Luis Herrera",
+    "email": "luis.herrera@petrobras.com"
+  },
+  {
+    "id": 7,
+    "usu_login": "exxon_admin",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 60,
+    "nombre": "Patricia Morales",
+    "email": "patricia.morales@exxonmobil.com"
+  },
+  {
+    "id": 8,
+    "usu_login": "exxon_finanzas",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 60,
+    "nombre": "Andrés Vargas",
+    "email": "andres.vargas@exxonmobil.com"
+  },
+  {
+    "id": 9,
+    "usu_login": "copec_finanzas",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 57,
+    "nombre": "Valentina López",
+    "email": "valentina.lopez@copec.cl"
+  },
+  {
+    "id": 10,
+    "usu_login": "shell_calidad",
+    "usu_pwd": "demo123",
+    "usu_activo": "SI",
+    "clienteId": 58,
+    "nombre": "Sebastián Torres",
+    "email": "sebastian.torres@shell.com"
+  },{
+    "id": 11,
+    "usu_login": "copec_avv",
+    "usu_pwd": "demo123456",
+    "usu_activo": "SI",
+    "clienteId": 57,
+    "nombre": "Alvaro Vega",
+    "email": "avega@copec.com"
+  }
+]

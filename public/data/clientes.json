@@ -1,0 +1,74 @@
+[
+  {
+    "id": 57,
+    "nombre": "COPEC",
+    "rut": "99.500.000-1",
+    "direccion": "Av. El Bosque Norte 500, Las Condes, Santiago",
+    "telefono": "+56 2 2461 8000",
+    "email": "contacto@copec.cl",
+    "tipo_cliente": "Estaciones de Servicio"
+  },
+  {
+    "id": 58,
+    "nombre": "SHELL",
+    "rut": "96.800.570-7",
+    "direccion": "Av. Vitacura 2939, Las Condes, Santiago",
+    "telefono": "+56 2 2750 7000",
+    "email": "contacto@shell.com",
+    "tipo_cliente": "Estaciones de Servicio"
+  },
+  {
+    "id": 59,
+    "nombre": "PETROBRAS",
+    "rut": "77.123.456-8",
+    "direccion": "Av. Providencia 1208, Providencia, Santiago",
+    "telefono": "+56 2 2384 5000",
+    "email": "contacto@petrobras.com",
+    "tipo_cliente": "Estaciones de Servicio"
+  },
+  {
+    "id": 60,
+    "nombre": "EXXON MOBIL",
+    "rut": "88.987.654-3",
+    "direccion": "Av. Andrés Bello 2457, Providencia, Santiago",
+    "telefono": "+56 2 2290 3000",
+    "email": "contacto@exxonmobil.com",
+    "tipo_cliente": "Operaciones Industriales"
+  },
+  {
+    "id": 61,
+    "nombre": "ENAP",
+    "rut": "60.916.000-1",
+    "direccion": "Av. Libertador Bernardo O'Higgins 1449, Santiago Centro",
+    "telefono": "+56 2 2280 3000",
+    "email": "contacto@enap.cl",
+    "tipo_cliente": "Refinería"
+  },
+  {
+    "id": 62,
+    "nombre": "TERPEL",
+    "rut": "96.571.220-8",
+    "direccion": "Av. Nueva Tajamar 481, Las Condes, Santiago",
+    "telefono": "+56 2 2367 2000",
+    "email": "contacto@terpel.com",
+    "tipo_cliente": "Estaciones de Servicio"
+  },
+  {
+    "id": 63,
+    "nombre": "YPF",
+    "rut": "78.456.123-9",
+    "direccion": "Av. Apoquindo 3001, Las Condes, Santiago",
+    "telefono": "+56 2 2756 8000",
+    "email": "contacto@ypf.com",
+    "tipo_cliente": "Estaciones de Servicio"
+  },
+  {
+    "id": 64,
+    "nombre": "ESMAX",
+    "rut": "89.654.321-0",
+    "direccion": "Av. Las Condes 11700, Las Condes, Santiago",
+    "telefono": "+56 2 2598 7000",
+    "email": "contacto@esmax.cl",
+    "tipo_cliente": "Distribución Combustibles"
+  }
+]
